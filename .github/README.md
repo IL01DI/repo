@@ -2,8 +2,6 @@
   <img align="center" src="https://i.imgur.com/RcY9qnM.png" alt="Logo" height="300">
 </p>
 
-> [!NOTE]  
-> I'm actively looking for contributors! I no longer keep up with the jailbreak scene.
 
 ## Table of Contents
 1. [Background Information](#background-information)  
