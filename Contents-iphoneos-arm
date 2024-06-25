@@ -1,8 +1,8 @@
-.							    emt.paisseon.satella
-DynamicLibraries					    emt.paisseon.satella
+.							    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
+DynamicLibraries					    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
 Info.plist						    emt.paisseon.satella
-Library							    emt.paisseon.satella
-MobileSubstrate						    emt.paisseon.satella
+Library							    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
+MobileSubstrate						    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
 PreferenceBundles					    emt.paisseon.satella
 PreferenceLoader					    emt.paisseon.satella
 Preferences						    emt.paisseon.satella
@@ -11,8 +11,12 @@ Satella.plist						    emt.paisseon.satella
 SatellaPrefs						    emt.paisseon.satella
 SatellaPrefs.bundle					    emt.paisseon.satella
 SatellaPrefs.plist					    emt.paisseon.satella
+StrongboxCrack.dylib					    lilliana.strongboxcrack
+StrongboxCrack.plist					    lilliana.strongboxcrack
+UlyssesCrack.dylib					    lilliana.ulyssescrack
+UlyssesCrack.plist					    lilliana.ulyssescrack
 entry.plist						    emt.paisseon.satella
 icon@2x.png						    emt.paisseon.satella
 icon@3x.png						    emt.paisseon.satella
-jb							    emt.paisseon.satella
-var							    emt.paisseon.satella
+jb							    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
+var							    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack

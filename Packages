@@ -18,3 +18,43 @@ SileoDepiction: https://paisseon.github.io/depictions/Satella.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
 Icon: https://paisseon.github.io/icons/Satella.png
 
+Package: lilliana.strongboxcrack
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debians/lilliana.strongboxcrack_0.0.3_iphoneos-arm64.deb
+Size: 21800
+MD5sum: 5930d459928b20b0fe1378c1f9a1e0b1
+SHA1: 83a12962c7ebfc21136f62bf36f2d6d6a874f4d6
+SHA256: f0243aa270e3bd5c7ca04ded85c1c5c5c793df4274c182a75eaf837c2434c665
+SHA512: b5ebbf116c93b830c79655067a2a52daca2732433203f03da025037ab5e584e8b33e24f221c1e8e23c2f1e038da804c2dbe6f49cbf6159ef7c82ac64022e6f0f
+Description: Strongbox pro for free
+Name: Strongbox Crack
+Author: Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/StrongboxCrack.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/StrongboxCrack.json&name=StrongboxCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/StrongboxCrack.png
+
+Package: lilliana.ulyssescrack
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Cracks
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debians/lilliana.ulyssescrack_0.0.1_iphoneos-arm64.deb
+Size: 22562
+MD5sum: 3ca187b72b1d528a773a5cdb5d067ccd
+SHA1: 2351b08681a63ca9c012b29adb5bb350430a2f57
+SHA256: ecf9ec0461a8b52250ae70adde69497d9299d4b7bda79ef4495466a8d4b034a0
+SHA512: 3753cb655475c5e3d9640463ae54afb9fc2f723e2c2ea48f51c09a175073364361b6d33da19ed7b475a2a77b52380be34216aee7566079d5f866f06b74ccb79b
+Description: Ulysses annual subscription for free (works on TF!)
+Name: Ulysses Crack
+Author: Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/UlyssesCrack.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/UlyssesCrack.json&name=UlyssesCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/UlyssesCrack.png
+
