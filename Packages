@@ -1,0 +1,20 @@
+Package: emt.paisseon.satella
+Architecture: iphoneos-arm64
+Version: 1.8.1
+Section: Tweaks (Piracy)
+Maintainer: Lilliana
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debians/emt.paisseon.satella_1.8.1_iphoneos-arm64.deb
+Size: 95982
+MD5sum: e951c9c54b7b646d3c58aa3d2d3946a5
+SHA1: b1a2a6e9c10ac9cfb62c31a6bfccff90e96111f7
+SHA256: cadbe4d4bf8e4e9317d450792e0cf1548c288b9016dee3241e72ee4bdeedd20d
+SHA512: 5b796c22669ecb1c817a6ce8b332936736b1b6a832e847466e658b7fc020aca0ce39d853d0366e8eaf9fa9f92e74116acfd11ce7537503a9b0b56d5a4bdbcb7a
+Description: Modern in-app purchase cracker
+Name: Satella
+Author: Lilliana
+SileoDepiction: https://paisseon.github.io/depictions/Satella.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+
