@@ -1,3 +1,22 @@
+Package: com.michaelmelita1.11cam15-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.17
+Section: Tweaks
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>>15.0)
+Filename: ./debians/com.michaelmelita1.11cam15_0.0.17_iphoneos-arm64.deb
+Size: 3106
+MD5sum: da4142b2f66de6d0813897e5480fd974
+SHA1: 5172ee7fe17a270a9a7e907ba8da21d9c68c2110
+SHA256: cba3773082f437e94cb266ee119bc95e7856ebe2beab77192c3b0a368ecccbf4
+SHA512: a54964904dc31014a90f8f7c6c955ffbcb4314c864dd1a9c30d26cebf41238e171e3d7c4321e4a263e5e202a80d63fbec26d6f5dcf43c58841556cede414bb51
+Description: New Camera app for iOS 15 & 16
+Author: Michael Melita, Flylarb & Ezekiel1998
+Name: 11Cam15
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
+
 Package: emt.paisseon.satella
 Architecture: iphoneos-arm64
 Version: 1.8.1

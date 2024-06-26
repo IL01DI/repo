@@ -1,8 +1,10 @@
-.							    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
-DynamicLibraries					    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
+.							    com.michaelmelita1.11cam15-rootless,lilliana.ulyssescrack,lilliana.strongboxcrack,emt.paisseon.satella
+11Cam15.dylib						    com.michaelmelita1.11cam15-rootless
+11Cam15.plist						    com.michaelmelita1.11cam15-rootless
+DynamicLibraries					    com.michaelmelita1.11cam15-rootless,lilliana.ulyssescrack,lilliana.strongboxcrack,emt.paisseon.satella
 Info.plist						    emt.paisseon.satella
-Library							    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
-MobileSubstrate						    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
+Library							    com.michaelmelita1.11cam15-rootless,lilliana.ulyssescrack,lilliana.strongboxcrack,emt.paisseon.satella
+MobileSubstrate						    com.michaelmelita1.11cam15-rootless,lilliana.ulyssescrack,lilliana.strongboxcrack,emt.paisseon.satella
 PreferenceBundles					    emt.paisseon.satella
 PreferenceLoader					    emt.paisseon.satella
 Preferences						    emt.paisseon.satella
@@ -18,5 +20,5 @@ UlyssesCrack.plist					    lilliana.ulyssescrack
 entry.plist						    emt.paisseon.satella
 icon@2x.png						    emt.paisseon.satella
 icon@3x.png						    emt.paisseon.satella
-jb							    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
-var							    emt.paisseon.satella,lilliana.ulyssescrack,lilliana.strongboxcrack
+jb							    com.michaelmelita1.11cam15-rootless,lilliana.ulyssescrack,lilliana.strongboxcrack,emt.paisseon.satella
+var							    com.michaelmelita1.11cam15-rootless,lilliana.ulyssescrack,lilliana.strongboxcrack,emt.paisseon.satella
