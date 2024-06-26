@@ -41,7 +41,7 @@ Icon: https://paisseon.github.io/icons/StrongboxCrack.png
 Package: lilliana.ulyssescrack
 Architecture: iphoneos-arm64
 Version: 0.0.1
-Section: Cracks
+Section: Tweaks (Cracks)
 Maintainer: Paisseon
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 12.2)
